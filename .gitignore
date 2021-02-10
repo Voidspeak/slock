@@ -1,0 +1,6 @@
+config.h
+slock
+*.diff
+*.orig
+*.rej
+*.o
